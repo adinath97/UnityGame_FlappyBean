@@ -1,0 +1,15 @@
+Tested Game Data:
+
+camera size 1.2 
+camera shake animation: +0.03 -0.03
+
+pipes 1.05 away from column object
+maxY = 0.6
+minY = -0.2
+
+ground/column speed = 0.5
+
+--------------------------------------------
+Admob:
+App Id:
+Banner Id:

@@ -1,0 +1,99 @@
+-------------------------
+****FLAPPY BIRD STEPS****
+-------------------------
+
+1.
+-------------------------
+-**** BASIC GAMEPLAY ****
+-------------------------
+- add sprites
+- set camera
+- plugin: letterbox (download from asset store)
+----------------------------
+- make bird jump and flap
+----------------------------
+- bird rotation
+---------------------------
+- make ground move
+---------------------------
+- make columns and column spawner
+--------------------------
+- detect and add score
+---------------------------
+- game over state
+- game over canvas
+--------------------------
+- before start game state 
+----------------------------
+- show score and high score in game over panel
+------------------------------
+- add 'new' img in panel and getReady/tapToStart imgs at the start
+---------------------------
+- pause button & pause game state
+--------------------------
+- custom fonts
+flappy large width:12 height:18 advance:10  *(num1 advance: 6  offsetX: -2 )
+flappy Mid   width:7  height:10 advance: 8   *(num1 advance:6  offsetX:-1 )
+--------------------------
+- make menu scene
+- go from menu to game and from game to menu
+
+2.
+----------------------------------------
+-**** EXTRA ANIMATIONS / TRANSITIONS****
+----------------------------------------
+- bird up down movement
+- black fade transition
+- ready anim
+- hit animation
+- camera shake
+- game over anim
+- medal script
+- coin sparkle
+- draw score
+
+3.
+-----------------------
+**** FINAL TOUCHES ****
+-----------------------
+
+- Add managers
+- Add sounds
+
+--------------------
+3.0.RATE BUTTON CODE
+--------------------
+#if UNITY_ANDROID
+Application.OpenURL("market://details?id=com.Company.Game");
+#endif 	
+-------
+3.1 ADS
+-------
+-You need an admob acccount 
+app id: 
+banner id: 
+
+Admob Plugin:
+	https://github.com/googleads/googleads-mobile-unity/releases/
+
+Google Mobile Ads for Unity documentation:
+	https://developers.google.com/admob/unity
+
+----------------
+3.2 SHARE BUTTON
+----------------
+Plugin: Cross Platform native plugin(download from asset store)
+
+--------------------------
+3.3 PUBLISH TO GOOGLE PLAY
+--------------------------
+
+You need a privacy policy for your app
+
+Create free website
+wix.com
+
+Privacy Policy generator:
+	https://app-privacy-policy-generator.firebaseapp.com/
+
+------------------------------------------------------
